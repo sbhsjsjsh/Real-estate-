@@ -1,0 +1,6 @@
+{
+  "name": "Chembur Real Estate",
+  "description": "Find the best properties for rent, buy, and sale in Chembur, Mumbai. Connect with us on Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
